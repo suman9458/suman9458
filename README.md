@@ -44,5 +44,3 @@
 - Focused on UI/UX  
 
 ---
-
-⭐ Keep Learning | Keep Growing | Never Give Up 💪
