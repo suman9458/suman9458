@@ -45,24 +45,4 @@
 
 ---
 
-## 💼 Internship Experience
-
-### Cynbit Technologies (Python Full Stack Intern)
-- Worked on frontend-backend integration  
-- Learned API and database handling  
-
-### Intrainz (Web Development Intern)
-- Designed responsive websites  
-- Improved UI components  
-
----
-
-## 🎯 Goals
-
-- Crack software developer role  
-- Improve problem solving skills  
-- Build impactful projects  
-
----
-
 ⭐ Keep Learning | Keep Growing | Never Give Up 💪
