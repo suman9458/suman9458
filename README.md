@@ -1,4 +1,4 @@
-# Hi 👋, I'm Suman Kumar
+# Hi 👋, I'm Suman Kumar Singh
 
 🎓 B.Tech Computer Science Engineering Student  
 💻 Aspiring Software Developer  
