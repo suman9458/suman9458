@@ -17,8 +17,8 @@
 
 ## 🔗 Coding Profiles
 
-- LeetCode: https://leetcode.com/your_username  
-- GitHub: https://github.com/your_username  
+- LeetCode: https://leetcode.com/suman9458
+- GitHub: https://github.com/suman9458
 
 ---
 
